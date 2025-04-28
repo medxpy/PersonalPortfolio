@@ -130,6 +130,7 @@ The static files will be generated in the `out` directory, ready for deployment 
 ## License
 
 MIT License - feel free to use this template for your own portfolio!
+If you like it give me a star <3
 
 ## Credits
 
