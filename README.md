@@ -1,4 +1,4 @@
-# SecurePort - Cybersecurity Portfolio
+# MedPyDev - Cybersecurity And Full Stack Developer Portfolio | Python - NodeJs
 
 A modern, responsive portfolio website built with Next.js, showcasing expertise in cybersecurity, Python development, and full-stack engineering. Features smooth animations, dark mode support, and a clean, professional design.
 
