@@ -98,10 +98,9 @@ export function ContactSection() {
                   className="w-full group btn-lg"
                   whileTap={{ scale: 0.98 }}
                 >
-                  <Button className="w-full">
-                    Send Message
-                    <Send size={16} className="ml-2 transition-transform group-hover:translate-x-1" />
-                  </Button>
+                    <div className="inline-flex items-center justify-center whitespace-nowrap rounded-md bg-primary px-4 py-2 text-sm font-medium text-white hover:bg-primary-dark">
+                    Submit
+                    </div>
                 </motion.button>
                 
                 {formSubmitted && (
