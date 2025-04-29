@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "next build && touch out/.nojekyll && gh-pages -d out"
+    "deploy": "npm run build && touch out/.nojekyll && gh-pages -d out --dotfiles --nojekyll"
   },
+  "homepage": "https://medxpy.github.io/PersonalPortfolio",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@next/swc-wasm-nodejs": "13.5.1",

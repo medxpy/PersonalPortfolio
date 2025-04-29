@@ -1,3 +1,5 @@
-export default {
-  extends: 'next/core-web-vitals',
-};
+// .eslintrc.js
+module.exports = {
+    extends: 'next/core-web-vitals',
+  };
+  
