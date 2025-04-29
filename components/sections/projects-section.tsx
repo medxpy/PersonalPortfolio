@@ -26,7 +26,7 @@ const projectsData = [
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
     links: {
       github: "https://github.com/medxpy/PersonalPortfolio",
-      live: "https://yourdomain.com"
+      live: "https://medxpy.github.com/PersonalPortfolio"
     }
   }
 ]

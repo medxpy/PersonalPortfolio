@@ -51,7 +51,7 @@ const skillsData = [
       { name: "AWS Architecture", level: 85 },
       { name: "Docker & Containerization", level: 90 },
       { name: "CI/CD Pipeline Setup", level: 82 },
-      { name: "Infrastructure as Code", level: 78 },
+      { name: "Serverless", level: 78 },
     ],
     color: "secondary",
     hoverIcon: Server
@@ -63,8 +63,7 @@ const skillsData = [
       { name: "React Development", level: 88 },
       { name: "UI/UX Principles", level: 80 },
       { name: "Responsive Design", level: 85 },
-      { name: "NextJs Development", level: 75 },
-    ],
+      { name: "Tailwind CSS", level: 90 },],
     color: "destructive",
     hoverIcon: Layout
   }
